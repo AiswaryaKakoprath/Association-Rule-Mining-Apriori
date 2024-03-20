@@ -1,4 +1,4 @@
-# ML-Project-3-Association-Rule-Mining-Apriori
+# Association-Rule-Mining-Apriori
 In this README template:
 
 - ## Overview
